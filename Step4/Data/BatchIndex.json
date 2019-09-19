@@ -1,0 +1,142 @@
+{
+  "Batch": [
+    {
+      "number": "201904030001",
+      "quantity_comp": "2",
+      "location": "Dubai",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030001-0001",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Polished: Matte"
+        },
+        {
+          "sn_component": "201904030001-0002",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Paint: AJ74"
+        }
+      ]
+    },
+    {
+      "number": "201904030002",
+      "quantity_comp": "3",
+      "location": "Dubai",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030002-0001",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Polished: Matte"
+        },
+        {
+          "sn_component": "201904030002-0002",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Polished: Gloss"
+        },
+        {
+          "sn_component": "201904030002-0003",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    },
+    {
+      "number": "201904030003",
+      "quantity_comp": "2",
+      "location": "Paisley",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030003-0001",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201904030003-0002",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    },
+    {
+      "number": "201904030004",
+      "quantity_comp": "3",
+      "location": "Paisley",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030004-0001",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201904030004-0002",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201904030004-0003",
+          "type_components": "Rudder Pin",
+          "size_fitment_comps": "10x75",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    },
+    {
+      "number": "201904030005",
+      "quantity_comp": "2",
+      "location": "Dubai",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030005-0001",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Paint: AJ74"
+        },
+        {
+          "sn_component": "201904030005-0002",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Paint: BT98"
+        }
+      ]
+    },
+    {
+      "number": "201904030006",
+      "quantity_comp": "3",
+      "location": "Paisley",
+      "manufacture_date": "20190403",
+      "component": [
+        {
+          "sn_component": "201904030006-0001",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201904030006-0002",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201904030006-0003",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    }
+  ]
+}
