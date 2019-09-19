@@ -1,0 +1,14 @@
+# VS Code IDE
+.vscode
+
+# Pycharm
+.idea
+
+# visual studio
+.vs
+
+# Test plan
+Step*/Testing
+
+# Documentation
+Documentation

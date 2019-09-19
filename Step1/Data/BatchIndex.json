@@ -1,0 +1,70 @@
+{
+  "Batch": [
+    {
+      "number": "201902200001",
+      "quantity_comp": "2",
+      "location": "Not Allocated",
+      "manufacture_date": "20190220",
+      "component": [
+        {
+          "sn_component": "201902200001-0001",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201902200001-0002",
+          "type_components": "Door handle",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    },
+    {
+      "number": "201902200002",
+      "quantity_comp": "0003",
+      "location": "Not Allocated",
+      "manufacture_date": "20190220",
+      "component": [
+        {
+          "sn_component": "201902200002-0001",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201902200002-0002",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201902200002-0003",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    },
+    {
+      "number": "201902201234",
+      "quantity_comp": "2",
+      "location": "Not Allocated",
+      "manufacture_date": "20190220",
+      "component": [
+        {
+          "sn_component": "201902201234-0001",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        },
+        {
+          "sn_component": "201902201234-0002",
+          "type_components": "Winglet Strut",
+          "size_fitment_comps": "A320 Series",
+          "status": "Manufactured-Unfinished"
+        }
+      ]
+    }
+  ]
+}
